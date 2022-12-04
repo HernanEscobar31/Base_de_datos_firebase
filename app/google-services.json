@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158090303574",
+    "project_id": "basededatosconfirebase",
+    "storage_bucket": "basededatosconfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158090303574:android:1e35237af71f74812983f7",
+        "android_client_info": {
+          "package_name": "com.example.basededatosfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158090303574-00qv3jdfescpe0b49pjlsh50i8p26169.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUfZjKv4PQRH5o_IDadD2Y2flJGE6nWvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158090303574-00qv3jdfescpe0b49pjlsh50i8p26169.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
